@@ -2,10 +2,9 @@
 
 > Guía: [Moodboard](../evaluacion/guias/fase-2-specs/02-moodboard.md)
 
-**Tablero en Whimsical:** [Pega aquí el enlace público de tu tablero de Whimsical]
+**Tablero en Whimsical:** [Studio Ash - Moodboard](https://whimsical.com/ash64674/67SGKQ9jdT3RA2ys5vgN4A)
 
-<!-- Captura: exporta tu tablero como imagen, guárdala en docs/img/moodboard.png y enlázala así: -->
-<!-- ![Moodboard de Studio Ash](img/moodboard.png) -->
+![Moodboard de Studio Ash](img/moodboard.png)
 
 ## Palabras clave
 
