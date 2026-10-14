@@ -12,22 +12,22 @@ La spec de diseño tiene dos partes:
 > Guía de wireframes: [Wireframes](../evaluacion/guias/fase-2-specs/04-wireframes.md)
 
 > [!NOTE]
-> ### 📋 Estado de Entrega de Wireframes (3/6) — Información para la Profesora
+> ### 📋 Estado de Entrega de Wireframes (6/6) — Información para la Profesora
 >
 > - **Enlace directo al tablero:** [https://whimsical.com/mau7/S9JoCqAQKbX3B8ozgsEXpv](https://whimsical.com/mau7/S9JoCqAQKbX3B8ozgsEXpv)
-> - **Nivel de avance visual:** **3 de 6 pantallas finalizadas** (50% de avance).
+> - **Nivel de avance visual:** **6 wireframes finalizados** (100% completado: 4 vistas Web Desktop + 2 vistas Mobile Celular).
 > - **Estado de especificación (prompts):** **6 de 6 pantallas completas** (100% redactadas y listas para Stitch a continuación).
 >
-> | N° | Pantalla | Estado en Whimsical | Estado de Prompt | Rol en el sitio |
-> |:--:|:---|:---:|:---:|:---|
-> | **1** | **Landing** | ✅ Completo | ✅ Listo | Home principal, propuesta de valor, hero y presentación. |
-> | **2** | **Tienda / Servicios** | ✅ Completo | ✅ Listo | Catálogo de servicios y extensiones, filtros y tarifas. |
-> | **3** | **Ficha de servicio** | ✅ Completo | ✅ Listo | Detalle de aplicación, variantes, duración y botón de agendar. |
-> | **4** | **Carrito / Reserva** | ⏳ En desarrollo | ✅ Listo | Formulario de datos, resumen y confirmación de abono. |
-> | **5** | **Blog / Q&A** | ⏳ En desarrollo | ✅ Listo | Preguntas frecuentes y artículos de cuidado posterior. |
-> | **6** | **Artículo** | ⏳ En desarrollo | ✅ Listo | Lectura completa de recomendaciones y bioseguridad. |
+> | N° | Pantalla / Vista | Formato | Estado en Whimsical | Estado de Prompt | Rol en el sitio |
+> |:--:|:---|:---:|:---:|:---:|:---|
+> | **1** | **Landing** | Web Desktop + Mobile | ✅ Completo | ✅ Listo | Home principal, propuesta de valor, hero y presentación. |
+> | **2** | **Tienda / Servicios** | Web Desktop + Mobile | ✅ Completo | ✅ Listo | Catálogo de servicios y extensiones, filtros y tarifas. |
+> | **3** | **Ficha de servicio** | Web Desktop | ✅ Completo | ✅ Listo | Detalle de aplicación, variantes, duración y botón de agendar. |
+> | **4** | **Carrito / Reserva** | Web Desktop | ✅ Completo | ✅ Listo | Formulario de datos, resumen y confirmación de abono. |
+> | **5** | **Blog / Q&A** | Web Desktop | ✅ Completo | ✅ Listo | Preguntas frecuentes y artículos de cuidado posterior. |
+> | **6** | **Artículo** | Web Desktop | ✅ Completo | ✅ Listo | Lectura completa de recomendaciones y bioseguridad. |
 >
-> *Nota explicativa sobre la entrega:* Se priorizó el desarrollo exhaustivo del **flujo principal de captación y reserva de citas** (Landing → Tienda de Servicios → Ficha de Detalle). Los wireframes restantes se encuentran actualmente en proceso de diagramación en el mismo tablero. En este documento ya se encuentran detalladas las 6 pantallas con sus componentes definitivos para la etapa de generación.
+> *Nota explicativa sobre la entrega:* Se completaron la totalidad de los 6 wireframes en Whimsical (4 pantallas en versión Web y 2 pantallas clave en versión Mobile para Celular: Landing y Tienda, respondiendo a la compra prioritaria desde smartphone de la proto-persona). En este documento se detallan además los prompts de las 6 pantallas con sus componentes definitivos para la etapa de generación en Stitch.
 
 <!-- Captura de los wireframes: ![Wireframes](img/wireframes.png) -->
 
