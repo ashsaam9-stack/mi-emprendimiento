@@ -121,8 +121,8 @@ mi-emprendimiento/
 ```css
 :root {
   /* Colores primarios y acentos tomados de DESIGN.md */
-  --primary-color: #e88ca8;          /* Rosa destacado / CTA */
-  --primary-hover: #d77794;          /* Rosa oscuro para estados hover */
+  --primary-color: #ef90ac;          /* Rosa destacado / CTA */
+  --primary-hover: #efbbcb;          /* Rosa suave para estados hover */
   --bg-color: #fdfbfb;               /* Fondo claro / nude */
   --surface-color: #ffffff;          /* Tarjetas y contenedores */
   --text-color: #2b2b2b;             /* Texto principal */

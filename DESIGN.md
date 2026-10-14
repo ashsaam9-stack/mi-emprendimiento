@@ -3,8 +3,8 @@ version: alpha
 name: Studio Ash
 description: Design system de Studio Ash — pestañas, cejas y estética facial personalizada
 colors:
-  primary: "#e88ca8"
-  primary-hover: "#d77794"
+  primary: "#ef90ac"
+  primary-hover: "#efbbcb"
   on-primary: "#ffffff"
   secondary: "#f3d1dc"
   on-secondary: "#2b2b2b"
@@ -118,12 +118,12 @@ Studio Ash es un estudio especializado en diseño de mirada, extensiones de pest
 
 Nuestra usuaria principal es **Maura Salinas**, una profesional de 29 años que busca ahorrar tiempo en su rutina matutina, valora la pulcritud y el cuidado de su piel sensible, y necesita total confianza en los estándares de higiene y bioseguridad del servicio.
 
-El estilo visual es femenino, sofisticado, cálido y minimalista: refleja delicadeza mediante tonos nude y rosas suaves (`#e88ca8`), contrastados con un fondo claro y luminoso (`#fdfbfb`) y una tipografía elegante con serif (*Playfair Display*) en conjunto con una sans-serif geométrica moderna (*Poppins*).
+El estilo visual es femenino, sofisticado, cálido y minimalista: refleja delicadeza mediante tonos nude y rosas suaves (`#ef90ac`), contrastados con un fondo claro y luminoso (`#fdfbfb`) y una tipografía elegante con serif (*Playfair Display*) en conjunto con una sans-serif geométrica moderna (*Poppins*).
 
 ## Colors
 
-- **Primary (`#e88ca8`):** Rosa destacado de la marca. Se utiliza en el botón principal de llamada a la acción (CTA "Agendar Cita", "Pagar Abono"), elementos interactivos activos y badges de destaque. No se usa como fondo de secciones completas ni en textos extensos.
-- **Primary Hover (`#d77794`):** Rosa de tono más profundo para feedback visual al pasar el cursor o pulsar botones primarios.
+- **Primary (`#ef90ac`):** Rosa destacado de la marca. Se utiliza en el botón principal de llamada a la acción (CTA "Agendar Cita", "Pagar Abono"), elementos interactivos activos y badges de destaque. No se usa como fondo de secciones completas ni en textos extensos.
+- **Primary Hover (`#efbbcb`):** Rosa suave de transición para feedback visual al pasar el cursor o pulsar botones primarios.
 - **Secondary (`#f3d1dc`):** Rosa pastel suave para fondos de chips de categoría, badges secundarios y etiquetas de oferta o tiempo estimado.
 - **Tertiary / Accent (`#3a2321`):** Espresso oscuro para titulares de alto impacto, logo tipográfico y textos que requieran máxima jerarquía.
 - **Neutral (`#fdfbfb`):** Fondo general de todas las páginas (nude casi blanco), transmitiendo luz, calma y asepsia clínica.
@@ -176,14 +176,14 @@ El estilo visual es femenino, sofisticado, cálido y minimalista: refleja delica
 ### Botón Primario (`button-primary`)
 - **Propósito:** Llamada a la acción principal del sitio ("Agendar Cita", "Pagar Abono y Confirmar").
 - **Estados:**
-  - *Normal:* Fondo `#e88ca8`, texto `#ffffff`, padding 14px 28px, bordes redondeados.
-  - *Hover:* Fondo oscurecido a `#d77794` con sombra rosada difusa.
+  - *Normal:* Fondo `#ef90ac`, texto `#ffffff`, padding 14px 28px, bordes redondeados.
+  - *Hover:* Fondo `#efbbcb` con sombra rosada difusa.
   - *Disabled:* Fondo gris `#e0e0e0`, texto `#8a8a8a`, cursor `not-allowed`.
 - **Regla:** Solo puede existir un botón primario visible al mismo tiempo en el viewport principal de la pantalla.
 
 ### Botón Secundario (`button-secondary`)
 - **Propósito:** Acciones secundarias de exploración ("Ver detalles", "Más información").
-- **Estados:** Fondo blanco, contorno sutil o texto en color primario `#e88ca8`, hover con fondo pastel suave `#f3d1dc`.
+- **Estados:** Fondo blanco, contorno sutil o texto en color primario `#ef90ac`, hover con fondo pastel suave `#f3d1dc`.
 
 ### Tarjeta de Servicio (`card-service`)
 - **Propósito:** Mostrar los tratamientos del catálogo.
@@ -192,7 +192,7 @@ El estilo visual es femenino, sofisticado, cálido y minimalista: refleja delica
 
 ### Campo de Texto (`input-field`)
 - **Propósito:** Captura de datos de la clienta en el formulario de confirmación de cita (Nombre, WhatsApp, Email, notas).
-- **Regla:** Al hacer foco (`focus`), el borde cambia a `#e88ca8` con un halo suave y accesible.
+- **Regla:** Al hacer foco (`focus`), el borde cambia a `#ef90ac` con un halo suave y accesible.
 
 ## Do's and Don'ts
 
