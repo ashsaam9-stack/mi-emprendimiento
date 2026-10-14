@@ -120,21 +120,20 @@ mi-emprendimiento/
 
 ```css
 :root {
-  /* Paleta cromática — Studio Ash */
-  --color-primary: #D8B4A6;          /* Truffle Blush: botones principales y bordes */
-  --color-primary-hover: #C9A091;    /* Truffle Blush oscuro para hover */
-  --color-secondary: #C48B9F;        /* Dusty Rose: detalles secundarios e interactivos */
-  --color-accent: #3A2321;           /* Espresso Brown: títulos y textos de máximo contraste */
-  --color-bg: #FAF8F5;               /* Ivory: fondo principal suave y pulcro */
-  --color-surface: #FFFFFF;          /* Blanco puro para tarjetas y contenedores */
-  --color-text: #2B2B2B;             /* Dark Neutral: cuerpo de texto y párrafos */
-  --color-text-muted: #6B6563;       /* Texto secundario y leyendas */
-  --color-success: #82A67D;          /* Soft Green: confirmaciones y abonos exitosos */
-  --color-error: #C86D6D;            /* Muted Red: validación y errores de formulario */
+  /* Colores primarios y acentos tomados de DESIGN.md */
+  --primary-color: #e88ca8;          /* Rosa destacado / CTA */
+  --primary-hover: #d77794;          /* Rosa oscuro para estados hover */
+  --bg-color: #fdfbfb;               /* Fondo claro / nude */
+  --surface-color: #ffffff;          /* Tarjetas y contenedores */
+  --text-color: #2b2b2b;             /* Texto principal */
+  --text-muted: #6c757d;             /* Texto secundario */
+  --border-color: #e0e0e0;           /* Bordes y divisores */
+  --color-success: #82a67d;          /* Confirmaciones y citas exitosas */
+  --color-error: #c86d6d;            /* Validación y alertas */
 
-  /* Tipografía */
-  --font-title: 'Playfair Display', serif;
-  --font-body: 'Plus Jakarta Sans', sans-serif;
+  /* Tipografías */
+  --font-heading: 'Playfair Display', serif; /* Títulos y encabezados */
+  --font-main: 'Poppins', sans-serif;        /* Textos, botones y párrafos */
 
   /* Escala de espaciados */
   --space-xs: 4px;
@@ -152,9 +151,9 @@ mi-emprendimiento/
   --radius-full: 9999px;
 
   /* Sombras y elevación */
-  --shadow-sm: 0 2px 4px rgba(58, 35, 33, 0.04);
-  --shadow-md: 0 4px 12px rgba(58, 35, 33, 0.08);
-  --shadow-hover: 0 8px 24px rgba(58, 35, 33, 0.12);
+  --shadow-sm: 0 2px 4px rgba(43, 43, 43, 0.04);
+  --shadow-md: 0 4px 12px rgba(43, 43, 43, 0.08);
+  --shadow-hover: 0 8px 24px rgba(232, 140, 168, 0.25);
 }
 ```
 
