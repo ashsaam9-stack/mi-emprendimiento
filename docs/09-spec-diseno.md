@@ -29,7 +29,7 @@ La spec de diseño tiene dos partes:
 >
 > *Nota explicativa sobre la entrega:* Se completaron la totalidad de los 6 wireframes en Whimsical (4 pantallas en versión Web y 2 pantallas clave en versión Mobile para Celular: Landing y Tienda, respondiendo a la compra prioritaria desde smartphone de la proto-persona). En este documento se detallan además los prompts de las 6 pantallas con sus componentes definitivos para la etapa de generación en Stitch.
 
-<!-- Captura de los wireframes: ![Wireframes](img/wireframes.png) -->
+![Wireframes de Studio Ash](img/wireframes.png)
 
 ---
 
