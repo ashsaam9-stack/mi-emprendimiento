@@ -31,7 +31,7 @@ Incluye landing, blog y prototipo de reserva y tienda online.
 
 ## Prototipo
 
-- **Proyecto en Google Stitch:** [https://stitch.withgoogle.com/](https://stitch.withgoogle.com/) <!-- Reemplazar con el enlace público definitivo de tu proyecto en Stitch -->
+- **Proyecto en Google Stitch:** [https://stitch.google.com/projects/2067485120998549857](https://stitch.google.com/projects/2067485120998549857)
 - **Documentación de QA y capturas:** Ver [docs/11-qa.md](docs/11-qa.md).
 
 ## Uso de IA
